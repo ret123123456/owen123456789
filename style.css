@@ -1,0 +1,19 @@
+#home {
+	color: #fff;
+	background: #2098D1;
+}
+#about {
+	background: #538896;
+	color: #fff;
+    border: 1px solid white;
+}
+#portfolio {
+	background: #858c96;
+	color: #fff;
+	border: 1px solid white;
+}
+#contact {
+	background: #538896;
+	color: #fff;
+	border: 1px solid white;
+}
